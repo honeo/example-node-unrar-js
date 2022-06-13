@@ -1,0 +1,22 @@
+{
+  "name": "example-node-unrar",
+  "version": "0.0.0",
+  "description": "bug report",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honeo/example-node-unrar-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honeo/example-node-unrar-js/issues"
+  },
+  "homepage": "https://github.com/honeo/example-node-unrar-js#readme",
+  "dependencies": {
+    "node-unrar-js": "1.0.6"
+  }
+}
