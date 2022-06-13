@@ -6,5 +6,5 @@ A validation repository created for the following Issue.
 ```sh
 $ git clone https://github.com/honeo/example-node-unrar-js
 $ cd example-node-unrar-js
-$ npm t
+$ npm i && npm t
 ```
